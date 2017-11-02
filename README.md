@@ -15,3 +15,5 @@ To do list:
 * Time series analysis
 
 * Fundamental financial analysis
+
+* Working with economic data
